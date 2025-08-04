@@ -9,14 +9,3 @@
     pointer-events: none;
     text-shadow: 0 0 5px rgba (255, 255, 255, 0.5);
 }
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Prueba CSS</title>
-  <link rel="stylesheet" href="prueba.css">
-</head>
-<body>
-  <div class="info">esto es una prueba</div>
-</body>
-</html>
